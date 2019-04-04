@@ -1,7 +1,5 @@
 <!--- https://akirateaching.github.io/Miltary-Bases/-->
 **List of Military Bases in Asia**
-
-Cleaning headlights
 - [Afghanistan](https://militarybases.com/overseas/afghanistan/)
 - [Bahrain](https://militarybases.com/overseas/bahrain/)
 - [Guam](https://militarybases.com/overseas/guam/)
