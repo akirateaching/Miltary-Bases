@@ -1,5 +1,5 @@
 <!--- https://akirateaching.github.io/Miltary-Bases/-->
-**List of Military Bases in Asia**
+**List of Military Bases in Asia - Week 7**
 - [Afghanistan](https://militarybases.com/overseas/afghanistan/)
 - [Bahrain](https://militarybases.com/overseas/bahrain/)
 - [Guam](https://militarybases.com/overseas/guam/)
@@ -14,4 +14,13 @@
 - [South Korea](https://militarybases.com/overseas/south-korea/)
 - [Turkey](https://militarybases.com/overseas/turkey/)
 
-
+**List of Military Bases in Europe - Week 8**
+- [Belgium](https://militarybases.com/overseas/belgium/)
+- [Bulgaria](https://militarybases.com/overseas/bulgaria/)
+- [Germany](https://militarybases.com/overseas/germany/)
+- [Greece](https://militarybases.com/overseas/greece/)
+- [Italy](https://militarybases.com/overseas/italy/)
+- [Kuwait](https://militarybases.com/overseas/kuwait/)
+- [Netherlands](https://militarybases.com/overseas/netherlands/)
+- [Spain](https://militarybases.com/overseas/spain/)
+- [United Kingdom](https://militarybases.com/overseas/united-kingdom/)
